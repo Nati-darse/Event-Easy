@@ -20,7 +20,7 @@ export default function App() {
         <Route path="/signup_Attendee" element={<Sign_att />} />  {/* Ensure this is correct for the signup page */}
         <Route path="/signup_Organizer" element={<Sign_org />} />  {/* Ensure this is correct for the signup page */}
         <Route path="/Login_Organizer" element={<Login_org />} />  {/* Ensure this is correct for the signup page */}
-        <Route path="/Login_Attendee" element={<Login_att />} />  {/* Ensure this is correct for the signup page */}
+        <Route path="/Login_Attendee" element={<Login_att />} />  {/* Ensure this is correct for the signup pag */}
       </Routes>
     </div>
   );
